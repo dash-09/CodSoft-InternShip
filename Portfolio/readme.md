@@ -1,4 +1,4 @@
-## checkout this project via direct link : 
+## Checkout this project via direct link : 
  - 🔗 https://code-soft-internship-portfolio.vercel.app/
 ## CodSoft-InternShip: Project 3 📛
 This is a simple portfolio project about myself. A complete one page website about myself . 
