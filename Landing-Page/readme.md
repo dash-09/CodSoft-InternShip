@@ -1,5 +1,5 @@
 ## check out this project at
-- 🔗 https://cod-soft-intern-ship-three.vercel.app/
+- 🔗 https://cod-soft-intern-ship-burger-shop.vercel.app/
 ## CodSoft-InternShip Project 2: Landing page 📛
 This is project 2 of codsoft Internship . In this I have a made a landing page for a small burger shop In a little fun way Using HTML, CSS, JS.   
 ## About 
@@ -12,4 +12,5 @@ This is project 2 of codsoft Internship . In this I have a made a landing page f
 - @Adarsh-shukla(https://github.com/dash-09)
 
 ## preview
-![burger1](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/1166591b-7903-4709-b000-87072aae3f75)
+ 
+![burger](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/2e72a95b-edb7-4ed5-8a6e-b6ddab708812)
