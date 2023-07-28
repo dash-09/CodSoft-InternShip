@@ -8,3 +8,5 @@ This is a simple calculator app which does all the basic functionality of calcul
 - A CodSoft InternShip Project. 
 ## Author
 - @Adarsh-shukla(https://github.com/dash-09)
+## preview
+![calc1](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/ba4889a8-23e6-4784-8604-9d862dda3be4)
