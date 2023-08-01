@@ -1,5 +1,5 @@
 ## check out this project at
-- 🔗 https://cod-soft-intern-ship-burger-shop.vercel.app/
+- 🔗 <a href="https://cod-soft-intern-ship-burger-shop.vercel.app/" target="_blank">Burger-shop Landing-Page Demo, Click here</a>
 ## CodSoft-InternShip Project 2: Landing page 📛
 This is project 2 of codsoft Internship . In this I have a made a landing page for a small burger shop In a little fun way Using HTML, CSS, JS.   
 ## About 
