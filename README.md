@@ -9,15 +9,28 @@ This is repo of Internship which I got from the codSoft . According to the rule 
 ## Author
 - @Adarsh-shukla(https://github.com/dash-09)
 ## preview Images 
-## calculator >> 
+## Calculator : 
 <br>
 <a href="https://code-soft-internship-portfolio.vercel.app/" target="_blank">Calculator Demo, Click here</a>
 <br>
+
 ![calcc](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/5b8b0a95-ef70-426d-b6ff-67b24720f269)
-## PortFolio site >> Link: 🔗 
+
+<br>
+
+## PortFolio site : 
+<br>
+<a href="https://code-soft-internship-portfolio.vercel.app/" target="_blank">Portfolio Demo, Click here</a>
+<br>
+
 ![port1](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/1cc9c216-4ad7-4986-85c9-e557565af678)
+ 
 <br>
 <br>
+
+## BurgerShop Landing page:
 <br>
-## BurgerShop Landing page >> Link:  https://cod-soft-intern-ship-burger-shop.vercel.app/
+<a href=" https://cod-soft-intern-ship-burger-shop.vercel.app/" target="_blank">Burger-Shop Landing page Demo, Click here</a>
+<br>
+
 ![burger1](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/73322b56-dbc4-4e3f-ad5e-1959795a810a)
