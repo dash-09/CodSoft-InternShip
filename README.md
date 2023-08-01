@@ -9,9 +9,12 @@ This is repo of Internship which I got from the codSoft . According to the rule 
 ## Author
 - @Adarsh-shukla(https://github.com/dash-09)
 ## preview Images 
-## calculator >> Link: 🔗 https://cod-soft-intern-ship.vercel.app/
+## calculator >> 
+<br>
+<a href="https://code-soft-internship-portfolio.vercel.app/" target="_blank">Calculator Demo, Click here</a>
+<br>
 ![calcc](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/5b8b0a95-ef70-426d-b6ff-67b24720f269)
-## PortFolio site >> Link: 🔗 https://code-soft-internship-portfolio.vercel.app/
+## PortFolio site >> Link: 🔗 
 ![port1](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/1cc9c216-4ad7-4986-85c9-e557565af678)
 <br>
 <br>
