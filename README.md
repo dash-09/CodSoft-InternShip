@@ -32,8 +32,16 @@ This is repo of Internship which I got from the codSoft . According to the rule 
 ## BurgerShop Landing page:
 <br>
 
-<a href="https://cod-soft-intern-ship-burger-shop.vercel.app/" target="_blank">Burger-Shop Landing page Demo, Click here</a>
+<a href="https://cod-soft-intern-ship-burger-shop.vercel.app/" target="_blank">Burger-Shop page 🔗</a>
+
 
 <br>
 
 ![burger1](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/73322b56-dbc4-4e3f-ad5e-1959795a810a)
+
+
+
+## InternShip completion certificate 
+
+![InternShip completion certificate](https://github.com/dash-09/CodSoft-InternShip/assets/74849401/01c7021f-5f9b-4759-89eb-1306cc391c9e)
+
